@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinClock</string>
+    <string name="title_font">Font</string>
+    <string name="title_font_size">Font size</string>
+    <string name="title_font_color">Font color</string>
+    <string name="title_back_color">Background color</string>
+</resources>
